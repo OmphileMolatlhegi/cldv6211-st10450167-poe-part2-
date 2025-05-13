@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EventeaseP7.props" />
+</Project>
